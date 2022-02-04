@@ -1,0 +1,1 @@
+export const AUTH_USER = 'https://apptesting.docsumo.com/api/v1/eevee/login/'
