@@ -1,6 +1,6 @@
 # Sample Auth Application
 
-Hi, This is a sample authentication application which has a login page and a dashboard page.
+This is a sample authentication application which has a login page and a dashboard page.
 
 # Setup
 
