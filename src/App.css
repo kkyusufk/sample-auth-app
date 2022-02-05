@@ -23,6 +23,10 @@ html, body {
   width: 30vw;
 }
 
+input {
+  width: 200px;
+}
+
 .login-button {
   margin-top: 10px;
   background-color: green;
